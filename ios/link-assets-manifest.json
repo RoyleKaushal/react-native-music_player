@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/FunnelSans-Bold.ttf",
+      "sha1": "65dd50982fbe7a8a625df05bcd892b9d5c4ec876"
+    },
+    {
+      "path": "src/assets/fonts/FunnelSans-BoldItalic.ttf",
+      "sha1": "8dea9e49b930e928480ab6cf8d8ba88895287c22"
+    },
+    {
+      "path": "src/assets/fonts/FunnelSans-ExtraBold.ttf",
+      "sha1": "6352a558368565f91d752af2b49dd3ef4762fb1d"
+    },
+    {
+      "path": "src/assets/fonts/FunnelSans-ExtraBoldItalic.ttf",
+      "sha1": "b7be10fef4b6650ebb0befb267569c632113eaf0"
+    },
+    {
+      "path": "src/assets/fonts/FunnelSans-Italic.ttf",
+      "sha1": "0a3bbdbdf85b9c3aa29fb2b15c98aa3f831fd513"
+    },
+    {
+      "path": "src/assets/fonts/FunnelSans-Light.ttf",
+      "sha1": "7d15aa0f36953dd4c6fcaa5cf405ab780fb329af"
+    },
+    {
+      "path": "src/assets/fonts/FunnelSans-LightItalic.ttf",
+      "sha1": "b01b6c6c2eef5c7c58964cad1dc16b5d3f8927a3"
+    },
+    {
+      "path": "src/assets/fonts/FunnelSans-Medium.ttf",
+      "sha1": "dedc1a73e18d245099b282c94845aae49d23fc0b"
+    },
+    {
+      "path": "src/assets/fonts/FunnelSans-MediumItalic.ttf",
+      "sha1": "4e0eef2911b5100e7604e9de94a64b9bcfc56f6d"
+    },
+    {
+      "path": "src/assets/fonts/FunnelSans-Regular.ttf",
+      "sha1": "3267ced08bca5b42bcd49043d52778335db48541"
+    },
+    {
+      "path": "src/assets/fonts/FunnelSans-SemiBold.ttf",
+      "sha1": "31d3a223ab01673cf8c7ac2c9eca7e20681cf3c9"
+    },
+    {
+      "path": "src/assets/fonts/FunnelSans-SemiBoldItalic.ttf",
+      "sha1": "852afb544547a31d7211d5472b9135fb41c4de0b"
+    }
+  ]
+}
