@@ -1,8 +1,10 @@
 import { Text } from "react-native";
-import Fonts from "./src/constants/Fonts";
+import Fonts from "@constants/Fonts";
+import COLORS from "@constants/Color";
+import SplashScreen from "@screens/SplashScreen/SplashScreen";
 
 export default function App() {
   return(
-    <Text style={{fontFamily: Fonts.FONT_BOLD, color: '#000000', fontSize: 20}}>Music Player</Text>
+    <SplashScreen/>
   )
 }
