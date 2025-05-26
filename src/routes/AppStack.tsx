@@ -2,6 +2,7 @@ import {createStackNavigator} from '@react-navigation/stack';
 import HomeScreen from '@screens/HomeScreen/HomeScreen';
 import React from 'react';
 import NavigationKeys from './NavigationKeys';
+import DetailScreen from '@screens/DetailScreen/DetailScreen';
 
 const AppStack = createStackNavigator();
 

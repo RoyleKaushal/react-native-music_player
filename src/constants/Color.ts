@@ -1,5 +1,7 @@
 enum COLORS {
     PRIMARY = '#00C2CB',
+    SECONDARY = "#121111",
+    TERTIARY = '#46c0d6',
     DARK_BLUE = '#042940',
     DARK_GREEN = '#005C53',
     LIGHT_GREEN = '#9FC131',

@@ -23,7 +23,7 @@ const languageDetector = {
 
     const storedLanguage = await AsyncStorage.getItem("user-language");
     console.log("🌐 Detected language:", storedLanguage);
-    callback(storedLanguage || "en");
+    callback("hi");
   },
   init: async () => {
     console.log("✅ Language detector initialized");

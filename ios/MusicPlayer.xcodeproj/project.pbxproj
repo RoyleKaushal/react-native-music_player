@@ -7,48 +7,48 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		036ADEEA6DC64C629691CF43 /* FunnelSans-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3A549FC900EB4560A85E31B2 /* FunnelSans-SemiBoldItalic.ttf */; };
 		0C80B921A6F3F58F76C31292 /* libPods-MusicPlayer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-MusicPlayer.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		286F26F6E8D687C7ADF7E8D0 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		47EC89EC0C124F558C579AB1 /* FunnelSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 08656226BF9D4533A8E36C84 /* FunnelSans-SemiBold.ttf */; };
+		55A5495649ED4DCAAA45F903 /* FunnelSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 22101D029ACE41A3AF91B900 /* FunnelSans-Light.ttf */; };
+		580789075882435F90BFC3D9 /* FunnelSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D4D15EE3AC0C47DDA1F69ED9 /* FunnelSans-ExtraBold.ttf */; };
+		623E989357DD4ECCACB6E4A9 /* FunnelSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EF9E89955A6946B99AE47499 /* FunnelSans-Italic.ttf */; };
+		67881F744DD942C2A47DA73B /* FunnelSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FACD1C3B0431494389A5D1D6 /* FunnelSans-Bold.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		67881F744DD942C2A47DA73B /* FunnelSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FACD1C3B0431494389A5D1D6 /* FunnelSans-Bold.ttf */; };
-		F8BF1E3244A748A58451F0A5 /* FunnelSans-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 88DCC5DC0A3C4143926F24DF /* FunnelSans-BoldItalic.ttf */; };
-		580789075882435F90BFC3D9 /* FunnelSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D4D15EE3AC0C47DDA1F69ED9 /* FunnelSans-ExtraBold.ttf */; };
 		85CE0B52ED624DC3B2A61580 /* FunnelSans-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 56DCD49029B548608A6AFFD7 /* FunnelSans-ExtraBoldItalic.ttf */; };
-		623E989357DD4ECCACB6E4A9 /* FunnelSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EF9E89955A6946B99AE47499 /* FunnelSans-Italic.ttf */; };
-		55A5495649ED4DCAAA45F903 /* FunnelSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 22101D029ACE41A3AF91B900 /* FunnelSans-Light.ttf */; };
-		B2AB3E9B376D457590356EC4 /* FunnelSans-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 75B8AA1329244FD5ABB9BA9B /* FunnelSans-LightItalic.ttf */; };
 		9350B74B68E64A4687DF9E77 /* FunnelSans-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5D54C37B952C47E58F2A23C4 /* FunnelSans-Medium.ttf */; };
-		FC10F6AE95C343A69A6E1157 /* FunnelSans-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CFA78CD94A414486B43163C3 /* FunnelSans-MediumItalic.ttf */; };
+		B2AB3E9B376D457590356EC4 /* FunnelSans-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 75B8AA1329244FD5ABB9BA9B /* FunnelSans-LightItalic.ttf */; };
 		DF92D478792B4711A5FDF599 /* FunnelSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D1EEA8CE5A94480A2DCA7EE /* FunnelSans-Regular.ttf */; };
-		47EC89EC0C124F558C579AB1 /* FunnelSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 08656226BF9D4533A8E36C84 /* FunnelSans-SemiBold.ttf */; };
-		036ADEEA6DC64C629691CF43 /* FunnelSans-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3A549FC900EB4560A85E31B2 /* FunnelSans-SemiBoldItalic.ttf */; };
+		F8BF1E3244A748A58451F0A5 /* FunnelSans-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 88DCC5DC0A3C4143926F24DF /* FunnelSans-BoldItalic.ttf */; };
+		FC10F6AE95C343A69A6E1157 /* FunnelSans-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CFA78CD94A414486B43163C3 /* FunnelSans-MediumItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		08656226BF9D4533A8E36C84 /* FunnelSans-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelSans-SemiBold.ttf"; path = "../src/assets/fonts/FunnelSans-SemiBold.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* MusicPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = MusicPlayer/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = MusicPlayer/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = MusicPlayer/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		22101D029ACE41A3AF91B900 /* FunnelSans-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelSans-Light.ttf"; path = "../src/assets/fonts/FunnelSans-Light.ttf"; sourceTree = "<group>"; };
+		3A549FC900EB4560A85E31B2 /* FunnelSans-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelSans-SemiBoldItalic.ttf"; path = "../src/assets/fonts/FunnelSans-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-MusicPlayer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MusicPlayer.debug.xcconfig"; path = "Target Support Files/Pods-MusicPlayer/Pods-MusicPlayer.debug.xcconfig"; sourceTree = "<group>"; };
+		3D1EEA8CE5A94480A2DCA7EE /* FunnelSans-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelSans-Regular.ttf"; path = "../src/assets/fonts/FunnelSans-Regular.ttf"; sourceTree = "<group>"; };
+		56DCD49029B548608A6AFFD7 /* FunnelSans-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelSans-ExtraBoldItalic.ttf"; path = "../src/assets/fonts/FunnelSans-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-MusicPlayer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MusicPlayer.release.xcconfig"; path = "Target Support Files/Pods-MusicPlayer/Pods-MusicPlayer.release.xcconfig"; sourceTree = "<group>"; };
+		5D54C37B952C47E58F2A23C4 /* FunnelSans-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelSans-Medium.ttf"; path = "../src/assets/fonts/FunnelSans-Medium.ttf"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-MusicPlayer.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MusicPlayer.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		75B8AA1329244FD5ABB9BA9B /* FunnelSans-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelSans-LightItalic.ttf"; path = "../src/assets/fonts/FunnelSans-LightItalic.ttf"; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = MusicPlayer/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = MusicPlayer/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		88DCC5DC0A3C4143926F24DF /* FunnelSans-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelSans-BoldItalic.ttf"; path = "../src/assets/fonts/FunnelSans-BoldItalic.ttf"; sourceTree = "<group>"; };
+		CFA78CD94A414486B43163C3 /* FunnelSans-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelSans-MediumItalic.ttf"; path = "../src/assets/fonts/FunnelSans-MediumItalic.ttf"; sourceTree = "<group>"; };
+		D4D15EE3AC0C47DDA1F69ED9 /* FunnelSans-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelSans-ExtraBold.ttf"; path = "../src/assets/fonts/FunnelSans-ExtraBold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		FACD1C3B0431494389A5D1D6 /* FunnelSans-Bold.ttf */ = {isa = PBXFileReference; name = "FunnelSans-Bold.ttf"; path = "../src/assets/fonts/FunnelSans-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		88DCC5DC0A3C4143926F24DF /* FunnelSans-BoldItalic.ttf */ = {isa = PBXFileReference; name = "FunnelSans-BoldItalic.ttf"; path = "../src/assets/fonts/FunnelSans-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		D4D15EE3AC0C47DDA1F69ED9 /* FunnelSans-ExtraBold.ttf */ = {isa = PBXFileReference; name = "FunnelSans-ExtraBold.ttf"; path = "../src/assets/fonts/FunnelSans-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		56DCD49029B548608A6AFFD7 /* FunnelSans-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; name = "FunnelSans-ExtraBoldItalic.ttf"; path = "../src/assets/fonts/FunnelSans-ExtraBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		EF9E89955A6946B99AE47499 /* FunnelSans-Italic.ttf */ = {isa = PBXFileReference; name = "FunnelSans-Italic.ttf"; path = "../src/assets/fonts/FunnelSans-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		22101D029ACE41A3AF91B900 /* FunnelSans-Light.ttf */ = {isa = PBXFileReference; name = "FunnelSans-Light.ttf"; path = "../src/assets/fonts/FunnelSans-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		75B8AA1329244FD5ABB9BA9B /* FunnelSans-LightItalic.ttf */ = {isa = PBXFileReference; name = "FunnelSans-LightItalic.ttf"; path = "../src/assets/fonts/FunnelSans-LightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		5D54C37B952C47E58F2A23C4 /* FunnelSans-Medium.ttf */ = {isa = PBXFileReference; name = "FunnelSans-Medium.ttf"; path = "../src/assets/fonts/FunnelSans-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		CFA78CD94A414486B43163C3 /* FunnelSans-MediumItalic.ttf */ = {isa = PBXFileReference; name = "FunnelSans-MediumItalic.ttf"; path = "../src/assets/fonts/FunnelSans-MediumItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		3D1EEA8CE5A94480A2DCA7EE /* FunnelSans-Regular.ttf */ = {isa = PBXFileReference; name = "FunnelSans-Regular.ttf"; path = "../src/assets/fonts/FunnelSans-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		08656226BF9D4533A8E36C84 /* FunnelSans-SemiBold.ttf */ = {isa = PBXFileReference; name = "FunnelSans-SemiBold.ttf"; path = "../src/assets/fonts/FunnelSans-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		3A549FC900EB4560A85E31B2 /* FunnelSans-SemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "FunnelSans-SemiBoldItalic.ttf"; path = "../src/assets/fonts/FunnelSans-SemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EF9E89955A6946B99AE47499 /* FunnelSans-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelSans-Italic.ttf"; path = "../src/assets/fonts/FunnelSans-Italic.ttf"; sourceTree = "<group>"; };
+		FACD1C3B0431494389A5D1D6 /* FunnelSans-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelSans-Bold.ttf"; path = "../src/assets/fonts/FunnelSans-Bold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,17 +114,8 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				3B4392A12AC88292D35C810B /* Pods-MusicPlayer.debug.xcconfig */,
-				5709B34CF0A7D63546082F79 /* Pods-MusicPlayer.release.xcconfig */,
-			);
-			path = Pods;
-			sourceTree = "<group>";
-		};
 		8D2A145D9BDF405AA6FF869A /* Resources */ = {
-			isa = "PBXGroup";
+			isa = PBXGroup;
 			children = (
 				FACD1C3B0431494389A5D1D6 /* FunnelSans-Bold.ttf */,
 				88DCC5DC0A3C4143926F24DF /* FunnelSans-BoldItalic.ttf */,
@@ -140,8 +131,17 @@
 				3A549FC900EB4560A85E31B2 /* FunnelSans-SemiBoldItalic.ttf */,
 			);
 			name = Resources;
-			sourceTree = "<group>";
 			path = "";
+			sourceTree = "<group>";
+		};
+		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3B4392A12AC88292D35C810B /* Pods-MusicPlayer.debug.xcconfig */,
+				5709B34CF0A7D63546082F79 /* Pods-MusicPlayer.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
