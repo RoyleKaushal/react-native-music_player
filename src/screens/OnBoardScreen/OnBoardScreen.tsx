@@ -1,0 +1,11 @@
+import COLORS from "@constants/Color";
+import Fonts from "@constants/Fonts";
+import { Text, View } from "react-native";
+
+export default function OnBoardScreen() {
+    return (
+        <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+            <Text style={{fontFamily: Fonts.FONT_BOLD, color: COLORS.BLACK}}>OnBoardScreen</Text>
+        </View>
+    )
+}
